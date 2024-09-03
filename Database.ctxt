@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=nomeDB
+comment1.target=Database(java.lang.String)
+comment2.params=url\ user\ password
+comment2.target=java.sql.Connection\ conectarDB(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ conectarDB\r\n\r\n\ @param\ url\ -\ string\ de\ conexao\r\n\ @param\ nomeDB\ -\ nome\ do\ banco\ de\ dados\ \r\n\ @param\ user\ -\ usuario\ do\ banco\ de\ dados\r\n\ @param\ password\ -\ senha\ do\ usuario\r\n\ @return\ The\ return\ value\r\n
+comment3.params=ra\ nome\ idade
+comment3.target=void\ gravarDadosDB(java.lang.String,\ java.lang.String,\ int)
+numComments=4
